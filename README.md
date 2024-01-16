@@ -231,3 +231,9 @@ Project 2 ETL
 8. Verify that each table has the correct data by running a SELECT statement for each.
 
     ![SELECT_Campaigns](Images/SELECT_Campaigns.png)
+
+    ![SELECT_Categories](Images/SELECT_Categories.png)
+
+    ![SELECT_Contacts](Images/SELECT_Contacts.png)
+
+    ![SELECT_Subcategories](Images/SELECT_Subcategories.png)
